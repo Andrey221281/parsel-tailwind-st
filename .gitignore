@@ -1,0 +1,6 @@
+dist
+node_modules
+.parcel-cache
+src/images
+yarn.lock
+yarn-error.log
